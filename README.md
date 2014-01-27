@@ -11,6 +11,15 @@ Files in this repo are:
 * parse.php - The actual functions to do the parsing
 * README.md - This file
 
+Usage
+-----
+
+If you want to see this in action, clone this repo onto any webserver with PHP instaled
+and load up the file example.php.
+
+It requires PHP 5.4.0 or newer, but if you remove the ',JSON_PRETTY_PRINT' in example.php
+it should work with earlier versions.
+
 About
 -----
 
